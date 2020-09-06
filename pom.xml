@@ -236,7 +236,7 @@
                 </executions>
             </plugin>
         </plugins>
-        <finalName>boot.cassini.practice</finalName>
+        <finalName>boot.cassini.excercise</finalName>
     </build>
 
     <repositories>
