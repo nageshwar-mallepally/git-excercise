@@ -10,7 +10,7 @@
         <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cassini</groupId>
-    <artifactId>boot.cassini.practice</artifactId>
+    <artifactId>boot.cassini.excercise</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>boot.cassini.practice</name>
     <packaging>war</packaging>
